@@ -14,16 +14,17 @@ c) Direct linkage between results and accountability at the commercial assessor 
 
 This system reflects how service quality was measured and managed in practice, translating operational evaluations into a **controlled and comparable decision framework**.
 
-## Interactive Dashboard File
+## Interactive Dashboard File.
 
 GitHub cannot display Power BI dashboards directly in the browser.
 
 To explore the interactive dashboard:
 
-1. Download the `.pbix` file below
-2. Open it using Power BI Desktop
+1. Open the `.pbix` file using the link below.
+2. On the file page, click the download icon (⬇️) located in the top-right corner.
+3. Open the downloaded file using Power BI Desktop.
 
-[Download Interactive Power BI Dashboard (.pbix)](./Operative_dashboard.pbix)
+[Open the Power BI Dashboard File (.pbix)](./Operative_dashboard.pbix)
 
 ## Full Analysis.
 
