@@ -16,15 +16,15 @@ This system reflects how service quality was measured and managed in practice, t
 
 ## Interactive Dashboard File.
 
-GitHub cannot display Power BI dashboards directly in the browser.
+The interactive Power BI dashboard is available in the `.pbix` project file below.
 
-To explore the interactive dashboard:
+To explore the dashboard:
 
-1. Open the `.pbix` file using the link below.
-2. On the file page, click the download icon (⬇️) located in the top-right corner.
-3. Open the downloaded file using Power BI Desktop.
+1. Open the file link below.
+2. Click the download button (⬇️) in the top-right corner.
+3. Open the file using Power BI Desktop.
 
-[Open the Power BI Dashboard File (.pbix)](./Operative_dashboard.pbix)
+[Open Interactive Power BI Dashboard (.pbix)](./Operative_dashboard.pbix)
 
 ## Full Analysis.
 
